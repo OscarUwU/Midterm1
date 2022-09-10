@@ -1,0 +1,175 @@
+
+
+
+body{
+    background-color: rgb(235, 235, 235);
+    background-size: cover;    
+    background-attachment: fixed;
+    
+}
+
+font{
+    font-family:  'Poppins', sans-serif; 
+}
+
+
+div {
+    width: 575px;
+    height: 400px;
+    text-align: end;
+}
+
+.Top-container{
+    position: absolute;
+    border-radius: 10px;
+    float: top;
+    text-align: left;
+    text-align: start;
+    top: 420px;
+    left: 1240px;
+    border-width: solid;
+    background-color: white;
+    font-family:  'Poppins', sans-serif;
+}
+
+.Top2-container{
+    position: absolute;
+    border-radius: 10px;
+    top: 410px;
+    left: 1240px;
+    border-width: solid;
+    background-color: red;
+}
+
+
+
+ 
+.Mid-container{
+    left: 1240px;
+    bottom: 120px;
+    text-align: left;
+    border-radius: 10px;
+    position: absolute;
+    float: bottom;
+    background-color: white;
+    font-family:  'Poppins', sans-serif;
+
+}
+
+.Mid2-container{
+    position: absolute;
+    border-radius: 10px;
+    bottom: 130px;
+    left: 1240px;
+    border-width: solid;
+    background-color: rgba(255, 213, 0, 0.667);
+}
+
+ 
+.Botleft-container{
+    position: absolute;
+    border-radius: 10px;
+    text-align: left;
+    text-align: start;
+    top: 700px;
+    float: left;
+    left: 620px;
+    border-width: solid;
+    background-color: white;
+    font-family:  'Poppins', sans-serif;
+}
+
+.Bot2left-container{
+    position: absolute;
+    border-radius: 10px;
+    top: 690px;
+    float: left;
+    left: 620px;
+    border-width: solid;
+    background-color: rgba(0, 204, 255, 0.46);
+  
+}
+ 
+.Botright-container{
+    position: absolute;
+    border-radius: 10px;
+    text-align: left;
+    text-align: start;
+    text-size-adjust: 20;
+    top: 700px;
+    right: 600px;
+    float: right;
+    border-width: solid;
+    background-color: white;
+    font-family:  'Poppins', sans-serif;
+}
+
+.Bot2right-container{
+    position: absolute;
+    border-radius: 10px;
+    text-align: left;
+    text-align: start;
+    text-size-adjust: 20;
+    top: 690px;
+    right: 600px;
+    float: right;
+    border-width: solid;
+    background-color: rgba(0, 0, 142, 0.841);
+   
+}
+
+.img1{
+    position: absolute;
+    right: 690px;
+    top: 950px;
+}
+
+.img2{
+    position: absolute;
+    left: 1200px;
+    bottom: -140px;
+}
+
+.img3{
+    position: absolute;
+    left: 590px;
+    top: 950px;
+}
+
+.img4{
+    position: absolute;
+    left: 1200px;
+    top: 670px;
+}
+
+.Uno-container{
+    position: absolute;
+    border-radius: 10px;
+    top: 420px;
+    left: 1240px;
+}
+.Dos-container{
+    position: absolute;
+    border-radius: 10px;
+    left: 1240px;
+    bottom: 120px;
+}
+.Tres-container{
+    position: absolute;
+    border-radius: 10px;
+    top: 700px;
+    left: 620px;
+}
+.Cuatro-container{
+    position: absolute;
+    border-radius: 10px;
+    top: 700px;
+    right: 600px;
+}
+    
+
+
+
+.b{
+    background-size: 1440px;
+}
